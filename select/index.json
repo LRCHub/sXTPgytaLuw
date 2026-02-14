@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "プリズムフレア",
+  "base_artist": "シャイニーカラーズ",
+  "createdAt": "2026-02-14T02:41:23.978011Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "プリズムフレア",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/01_プリズムフレア_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "プリズムフレア (放課後クライマックスガールズ Ver.)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/02_プリズムフレア_(放課後クライマックスガールズ_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "プリズムフレア (ストレイライト Ver.)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/03_プリズムフレア_(ストレイライト_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "プリズムフレア (イルミネーションスターズ Ver.)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/04_プリズムフレア_(イルミネーションスターズ_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "プリズムフレア (アンティーカ Ver.)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/05_プリズムフレア_(アンティーカ_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "プリズムフレア (アルストロメリア Ver.)",
+      "artist": "シャイニーカラーズ",
+      "has_synced": true,
+      "path": "select/06_プリズムフレア_(アルストロメリア_Ver.)_シャイニーカラーズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "プリズムフレア",
+      "artist": "シャイニーカラーズ",
+      "has_synced": false,
+      "path": "select/pl_01_プリズムフレア_シャイニーカラーズ.txt"
+    }
+  ]
+}
